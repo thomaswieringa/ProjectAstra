@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a09ee348-013c-4930-b1d2-5d209c65e467" name="Default Changelist" comment="" />
+    <list default="true" id="a09ee348-013c-4930-b1d2-5d209c65e467" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +17,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bzCy2oEXR7SiD9eDpcjW3cZkMR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../AstraProject/Scrapings" />
+      <recent name="$PROJECT_DIR$/../AstraProject/Methodss" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType">
@@ -163,11 +178,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589625786150</updated>
-      <workItem from="1589625841312" duration="954000" />
+      <workItem from="1589625841312" duration="1899000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="387" key="Github.CreateGistDialog" timestamp="1589627592282">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="557" y="387" key="Github.CreateGistDialog/39.23.1401.877@39.23.1401.877" timestamp="1589627592282" />
+    <state x="619" y="365" key="Github.ShareDialog" timestamp="1589627101332">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="619" y="365" key="Github.ShareDialog/39.23.1401.877@39.23.1401.877" timestamp="1589627101332" />
+    <state x="487" y="173" key="Github.UntrackedFilesDialog" timestamp="1589627107049">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="487" y="173" key="Github.UntrackedFilesDialog/39.23.1401.877@39.23.1401.877" timestamp="1589627107049" />
+    <state x="339" y="201" key="Vcs.Push.Dialog.v2" timestamp="1589627417489">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="339" y="201" key="Vcs.Push.Dialog.v2/39.23.1401.877@39.23.1401.877" timestamp="1589627417489" />
   </component>
 </project>
